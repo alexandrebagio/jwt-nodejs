@@ -1,4 +1,4 @@
 module.exports = {
     'secret': 'nodeauthentic',
-    'database': 'mongodb://anthenticdb:123123@olympia.modulusmongo.net:27017/a3Xuseqi'
+    'database': 'mongodb://<user>:<pass>@olympia.modulusmongo.net:27017/a3Xuseqi'
 };
